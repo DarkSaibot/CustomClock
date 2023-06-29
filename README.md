@@ -2,4 +2,4 @@
 A simple custom clock made in Python by me, it also has a date translated into Brazilian Portuguese.
 <br>
 <br>
-![Screenshot_2](https://github.com/DarkSaibot/QuizApp/assets/86971123/77f0ea1c-76c3-417d-ba37-9a2865a754b3)
+![Screenshot_1](https://github.com/DarkSaibot/CustomClock/assets/86971123/601adfa5-98dc-4af7-8c77-e321be8e9cba)
